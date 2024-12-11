@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Who\Who\bin\Debug\net8.0\Who.exe
+C:\Users\ASUS\source\repos\Who\Who\bin\Debug\net8.0\Who.deps.json
+C:\Users\ASUS\source\repos\Who\Who\bin\Debug\net8.0\Who.runtimeconfig.json
+C:\Users\ASUS\source\repos\Who\Who\bin\Debug\net8.0\Who.dll
+C:\Users\ASUS\source\repos\Who\Who\bin\Debug\net8.0\Who.pdb
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.sourcelink.json
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.dll
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\refint\Who.dll
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.pdb
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\Who.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Who\Who\obj\Debug\net8.0\ref\Who.dll
