@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\bin\Debug\net8.0\AllCSHARP.exe
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\bin\Debug\net8.0\AllCSHARP.deps.json
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\bin\Debug\net8.0\AllCSHARP.runtimeconfig.json
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\bin\Debug\net8.0\AllCSHARP.dll
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\bin\Debug\net8.0\AllCSHARP.pdb
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.sourcelink.json
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.dll
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\refint\AllCSHARP.dll
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.pdb
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\AllCSHARP.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AllCSHARP\AllCSHARP\obj\Debug\net8.0\ref\AllCSHARP.dll
